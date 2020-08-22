@@ -5,9 +5,6 @@
   <img src=https://www.python.org/static/img/python-logo.png?raw=true" alt="imagem" width="200px" />
  </p>
     
-                                                                                                       
-&nbsp;&nbsp;&nbsp; Segue abaixo o controle das minhas atividades durante o curso.
-
   
 ## Índice
 ### Capítulo 1
