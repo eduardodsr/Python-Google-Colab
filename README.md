@@ -17,7 +17,7 @@
 7. :white_check_mark: [aula 3.2] String
 8. :white_check_mark: [aula 3.3] Strings
 9. :white_check_mark: [aula 3.4] Strings
-10. :white_check_mark: [aula 04] Números
+10. :white_check_mark: [aula 4] Números
 
 ### Capítulo 2
 11. :white_check_mark: [aula 1.1] Expressões booleanas teoria
