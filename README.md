@@ -6,6 +6,10 @@ Criando um notebook no Google Colaboratory
 Vamos começar acessando o Google Colaboratory pelo link abaixo.
 
 ``` link: ```  https://colab.research.google.com/
+
+<p align="center">
+  <img src=https://github.com/eduardodsr/Python-Google-Colab/blob/master/logo.png?raw=true" alt="imagem" width="200px" />
+ </p>
  
  <p align="center">
   <img src=https://www.python.org/static/img/python-logo.png?raw=true" alt="imagem" width="200px" />
@@ -13,10 +17,8 @@ Vamos começar acessando o Google Colaboratory pelo link abaixo.
                                                                                                  
                                                                                                  
 ## Pré-requisitos
-Ao conectar, ele vai carregar um notebook inicial. Ele possui uma descrição do que é o Colab e as suas funcionalidades.
 Para criar um novo Notebook, precisamos conectar nossa conta do GMail.
 
-Ao conectar nossa conta e voltarmos ao link inicial, vamos encontrar a tela acima. Nesta tela podemos abrir projetos já criados ou então criar um novo notebook. Vamos criar um novo notebook clicando em “New Notebook”.
   
 ## Índice
 ### Capítulo 1
