@@ -52,19 +52,19 @@ Para criar um novo Notebook, precisamos conectar nossa conta do GMail. Basta voc
 ### Capítulo 3
 18. :white_large_square:  [aula 1.1] Estruturas de repetição Teoria
 19. :white_large_square:  [aula 1.2] Estruturas de repetição Teoria parte 2   
-22. :white_large_square:  [aula 2.1] Dicionários e listas
-23. :white_large_square:  [aula 2.2] Dicionários e listas
-24. :white_large_square:  [aula 2.3] Tuplas
-25. :white_large_square:  [aula 4.1] laços
-26. :white_large_square:  [aula 4.2] laços
-27. :white_large_square:  [aula 4.3] laços
-28. :white_large_square:  [aula 4.4] getuser getpass1
-29. :white_large_square:  [aula 5.1] sistema de restaurante
-30. :white_large_square:  [aula 5.2] melhorando o sistema
+20. :white_large_square:  [aula 2.1] Dicionários e listas
+21. :white_large_square:  [aula 2.2] Dicionários e listas
+22. :white_large_square:  [aula 2.3] Tuplas
+23. :white_large_square:  [aula 4.1] laços
+24. :white_large_square:  [aula 4.2] laços
+25. :white_large_square:  [aula 4.3] laços
+26. :white_large_square:  [aula 4.4] getuser getpass1
+27. :white_large_square:  [aula 5.1] sistema de restaurante
+28. :white_large_square:  [aula 5.2] melhorando o sistema
 
 ### Capítulo 4
-31. :white_large_square: [aula 1] Funções Teoria.
-32. :white_large_square: [aula 2] Funções.
-33. :white_large_square: [aula 3.1] Melhorando nosso sistema de restaurante.
-34. :white_large_square: [aula 3.2] Melhorando nosso sistema ainda mais.
-35. :white_large_square: [aula 3.3] Terminando o nosso sistema. 
+29. :white_large_square: [aula 1] Funções Teoria.
+30. :white_large_square: [aula 2] Funções.
+31. :white_large_square: [aula 3.1] Melhorando nosso sistema de restaurante.
+32. :white_large_square: [aula 3.2] Melhorando nosso sistema ainda mais.
+33. :white_large_square: [aula 3.3] Terminando o nosso sistema. 
