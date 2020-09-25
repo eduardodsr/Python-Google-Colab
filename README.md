@@ -15,6 +15,7 @@
                                                                                                  
                                                                                                  
 ## Pré-requisitos
+
 Para criar um novo Notebook, precisamos conectar nossa conta do GMail. Basta você possuir uma conta do Google (GMail) que poderá utilizar o sistema. Ele vai salvando os seus notebooks no Google Drive.
 
 ## Artigo que explica como usar o Google Colab
