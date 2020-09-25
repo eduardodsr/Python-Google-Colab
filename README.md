@@ -1,5 +1,11 @@
 # Python Google Colab
- Python Google Colab Notebook
+ Python Google Colab Notebook.
+ 
+ O Google Colaboratory é uma plataforma na nuvem onde você consegue escrever e executar códigos Python em Jupyter Notebooks sem precisar instalar nenhum ambiente em sua máquina. Basta você possuir uma conta do Google (GMail) que poderá utilizar o sistema. Ele vai salvando os seus notebooks no Google Drive.
+Criando um notebook no Google Colaboratory
+Vamos começar acessando o Google Colaboratory pelo 
+
+´´´´ link ´´´´  https://colab.research.google.com/
  
  <p align="center">
   <img src=https://www.python.org/static/img/python-logo.png?raw=true" alt="imagem" width="200px" />
