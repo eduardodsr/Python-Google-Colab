@@ -3,14 +3,20 @@
  
  O Google Colaboratory é uma plataforma na nuvem onde você consegue escrever e executar códigos Python em Jupyter Notebooks sem precisar instalar nenhum ambiente em sua máquina. Basta você possuir uma conta do Google (GMail) que poderá utilizar o sistema. Ele vai salvando os seus notebooks no Google Drive.
 Criando um notebook no Google Colaboratory
-Vamos começar acessando o Google Colaboratory pelo 
+Vamos começar acessando o Google Colaboratory pelo link abaixo.
 
-´´´ link ´´´  https://colab.research.google.com/
+``` link: ```  https://colab.research.google.com/
  
  <p align="center">
   <img src=https://www.python.org/static/img/python-logo.png?raw=true" alt="imagem" width="200px" />
  </p>
-    
+                                                                                                 
+                                                                                                 
+## Pré-requisitos
+Ao conectar, ele vai carregar um notebook inicial. Ele possui uma descrição do que é o Colab e as suas funcionalidades.
+Para criar um novo Notebook, precisamos conectar nossa conta do GMail.
+
+Ao conectar nossa conta e voltarmos ao link inicial, vamos encontrar a tela acima. Nesta tela podemos abrir projetos já criados ou então criar um novo notebook. Vamos criar um novo notebook clicando em “New Notebook”.
   
 ## Índice
 ### Capítulo 1
