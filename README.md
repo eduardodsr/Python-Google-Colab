@@ -1,5 +1,11 @@
 # Python Google Colab (Google Colaboratory)
- Python Google Colab Notebook.
+
+[![](https://img.shields.io/badge/made_by-eduardodsr-green)](https://github.com/eduardods/)
+![GitHub repo size](https://img.shields.io/github/repo-size/eduardodsr/Python-Google-Colab)
+![GitHub top language](https://img.shields.io/github/languages/top/eduardodsr/Python-Google-Colab)
+![GitHub language count](https://img.shields.io/github/languages/count/eduardodsr/Python-Google-Colab)
+
+:cloud: Python Google Colab Notebook :cloud:
  
  O Google Colaboratory é uma plataforma na nuvem onde você consegue escrever e executar códigos Python em Jupyter Notebooks sem precisar instalar nenhum ambiente em sua máquina. 
 
