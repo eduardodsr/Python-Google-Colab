@@ -24,7 +24,8 @@
                                                                                                  
 ## Pré-requisitos
 
-Para criar um novo Notebook, precisamos conectar nossa conta do GMail. Basta você possuir uma conta do Google (GMail) que poderá utilizar o sistema. Ele vai salvando os seus notebooks no Google Drive.
+- Para criar um novo Notebook, precisamos conectar nossa conta do GMail. 
+- Basta você possuir uma conta do Google (GMail) que poderá utilizar o sistema. Ele vai salvando os seus notebooks no Google Drive.
 
 ## Artigo que explica como usar o Google Colab
 
@@ -34,8 +35,10 @@ Para criar um novo Notebook, precisamos conectar nossa conta do GMail. Basta voc
 
 ``` link: ```  https://www.youtube.com/watch?v=Gojqw9BQ5qY
 
+# Curso de Python
   
-## Índice
+## Índice 
+
 ### Capítulo 1 (  :white_check_mark: | :white_large_square:  )
 1. :white_check_mark: [aula 1.1] Apresentação pessoal
 2. :white_check_mark: [aula 1.2] O que é Python
