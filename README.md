@@ -4,8 +4,9 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/eduardodsr/Python-Google-Colab)
 ![GitHub top language](https://img.shields.io/github/languages/top/eduardodsr/Python-Google-Colab)
 ![GitHub language count](https://img.shields.io/github/languages/count/eduardodsr/Python-Google-Colab)
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.Python-Google-Colab)
 
-:cloud: Python Google Colab Notebook :cloud:
+## :cloud: Python Google Colab Notebook :cloud:
  
  O Google Colaboratory é uma plataforma na nuvem onde você consegue escrever e executar códigos Python em Jupyter Notebooks sem precisar instalar nenhum ambiente em sua máquina. 
 
@@ -19,7 +20,7 @@
   <img src=https://www.python.org/static/img/python-logo.png?raw=true" alt="imagem" width="300px" />
  </p>
         
-  <p align="center"><img src=https://i.imgur.com/eP8QQc8.png?raw=true" alt="imagem" width="200px" /></p>
+
                                                                                                  
 ## Pré-requisitos
 
@@ -75,3 +76,6 @@ Para criar um novo Notebook, precisamos conectar nossa conta do GMail. Basta voc
 31. :white_check_mark: [aula 3.1] Melhorando nosso sistema de restaurante.
 32. :white_check_mark: [aula 3.2] Melhorando nosso sistema ainda mais.
 33. :white_check_mark: [aula 3.3] Terminando o nosso sistema. 
+
+
+  <p align="center"><img src=https://i.imgur.com/eP8QQc8.png?raw=true" alt="imagem" width="200px" /></p>
