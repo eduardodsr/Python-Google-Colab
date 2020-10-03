@@ -15,8 +15,8 @@
 ``` link: ```  https://colab.research.google.com/
 
 <div class="code" align="center">
-<code><a href="https://www.python.org/" target="_blank"><img height="250" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://jupyter.org/" target="_blank"><img height="250" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://jupyter.org/" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
 </div>
 <p align="center">
   <img src=https://github.com/eduardodsr/Python-Google-Colab/blob/master/logo.png?raw=true" alt="imagem" width="500px" />
