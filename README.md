@@ -39,6 +39,8 @@
 ``` link: ```  https://www.youtube.com/watch?v=Gojqw9BQ5qY
 
 # Curso de Python
+
+  <p align="left"><img src=https://i.imgur.com/eP8QQc8.png?raw=true" alt="imagem" width="200px" /></p>
   
 ## Índice 
 
@@ -84,4 +86,4 @@
 33. :white_check_mark: [aula 3.3] Terminando o nosso sistema. 
 
 
-  <p align="left"><img src=https://i.imgur.com/eP8QQc8.png?raw=true" alt="imagem" width="200px" /></p>
+
