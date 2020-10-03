@@ -13,11 +13,11 @@
 ``` link: ```  https://colab.research.google.com/
 
 <p align="center">
-  <img src=https://github.com/eduardodsr/Python-Google-Colab/blob/master/logo.png?raw=true" alt="imagem" width="600px" />
+  <img src=https://github.com/eduardodsr/Python-Google-Colab/blob/master/logo.png?raw=true" alt="imagem" width="400px" />
  </p>
  
  <p align="center">
-  <img src=https://www.python.org/static/img/python-logo.png?raw=true" alt="imagem" width="300px" />
+  <img src=https://www.python.org/static/img/python-logo.png?raw=true" alt="imagem" width="200px" />
  </p>
         
 
