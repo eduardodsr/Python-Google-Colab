@@ -6,6 +6,10 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/eduardodsr/Python-Google-Colab)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.Python-Google-Colab)
 
+<p align="center">
+  <img src=https://www.python.org/static/img/python-logo.png?raw=true" alt="imagem" width="200px" />
+ </p>
+
 ## :cloud: Python Google Colab Notebook :cloud:
  
  O Google Colaboratory é uma plataforma na nuvem onde você consegue escrever e executar códigos Python em Jupyter Notebooks sem precisar instalar nenhum ambiente em sua máquina. 
@@ -16,9 +20,6 @@
   <img src=https://github.com/eduardodsr/Python-Google-Colab/blob/master/logo.png?raw=true" alt="imagem" width="400px" />
  </p>
  
- <p align="center">
-  <img src=https://www.python.org/static/img/python-logo.png?raw=true" alt="imagem" width="200px" />
- </p>
         
 
                                                                                                  
